@@ -23,3 +23,12 @@
  23     printf("largest element=%d",result);
  24 }
 
+output:
+enter 5 elements:
+2
+3
+4
+5
+6
+largest element=6
+
