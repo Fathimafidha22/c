@@ -12,3 +12,6 @@
  12     return 0;
  13 }
 ~
+output:
+enter the number :4
+factorial=24
