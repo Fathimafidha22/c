@@ -23,3 +23,12 @@
  23    printf("sum of all elements:%d\n",result);
  24    return 0;
  25    }
+
+output:
+enter 5 elements:
+1
+2
+3
+7
+6
+sum of all elements:19
